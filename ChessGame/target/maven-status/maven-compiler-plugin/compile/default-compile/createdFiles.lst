@@ -1,0 +1,14 @@
+Main\BoardPanel.class
+Main\ChessBoard.class
+Piece\Bishop.class
+Piece\Queen.class
+Main\BoardPanel$1.class
+Main\ScorePanel.class
+Main\Mouse.class
+Piece\Pawn.class
+Piece\Piece.class
+Piece\Rook.class
+Piece\King.class
+Piece\Knight.class
+Main\Main.class
+Main\Type.class
